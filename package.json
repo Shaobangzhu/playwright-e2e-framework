@@ -1,0 +1,24 @@
+{
+  "name": "playwright-e2e-framework",
+  "version": "1.0.0",
+  "description": "Use Playwright to automate complex flows and use Github Actions to dev CI/CD with it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaobangzhu/playwright-e2e-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Shaobangzhu/playwright-e2e-framework/issues"
+  },
+  "homepage": "https://github.com/Shaobangzhu/playwright-e2e-framework#readme",
+  "dependencies": {
+    "playwright": "^1.56.1"
+  }
+}
